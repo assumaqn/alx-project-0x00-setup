@@ -1,4 +1,3 @@
-
 # ALX Project 0x00 – Next.js Setup
 
 ## 📌 Description
